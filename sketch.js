@@ -33,7 +33,7 @@ function setup(){
 }
 
 function preload(){
-  backgroundImage = loadImage("sprites/bg.png");
+  backgroundImage = loadImage("bg.png");
 }
 
 function draw(){
